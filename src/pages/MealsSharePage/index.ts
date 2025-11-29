@@ -1,0 +1,1 @@
+export { MealsSharePage } from "./MealsSharePage";

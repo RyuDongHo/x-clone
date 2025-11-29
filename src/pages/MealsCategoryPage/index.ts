@@ -1,0 +1,1 @@
+export { MealsCategoryPage } from './MealsCategoryPage';
