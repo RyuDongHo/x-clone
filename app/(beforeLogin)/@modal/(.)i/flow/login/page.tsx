@@ -1,7 +1,6 @@
 import { LoginModal } from "@/widgets/Modal";
-
-const Login = () => {
+const Page = () => {
   return <LoginModal />;
 };
 
-export default Login;
+export default Page;
